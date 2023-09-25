@@ -21,7 +21,7 @@ O sensor de luminosidade captura dados de luminosidade no ambiente e os envia pa
 
 O sistema de backend é construído com Docker, Fiware e STH Comet:
 
-- **Docker**: Utilizamos contêineres Docker para simplificar o gerenciamento e a implantação de nossos serviços. Isso nos permite manter nosso ambiente de desenvolvimento e produção consistente.
+- **Docker Compose**: Utilizamos contêineres Docker para simplificar o gerenciamento e a implantação de nossos serviços. Isso nos permite manter nosso ambiente de desenvolvimento e produção consistente.
 
 - **Fiware**: Fiware é uma plataforma de código aberto que fornece ferramentas e componentes para o desenvolvimento de aplicativos IoT e Smart Cities. Utilizamos Fiware para gerenciar nossos dados e serviços.
 
@@ -46,18 +46,12 @@ Com os dados armazenados no STH Comet, podemos criar gráficos para visualizar a
 
 4. **Visualização de Dados**: Utilize as ferramentas de visualização de dados de sua escolha para criar gráficos com as últimas leituras de luminosidade armazenadas no STH Comet.
 
-## Contribuições
-
-Contribuições para este projeto são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou enviar solicitações de pull.
-
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Este projeto é licenciado sob a [Longest Wave Tech](LongestWaveTech.).
 
-## Autor
+## Autores
 
-[Seu Nome]
+- Paloma Mirella - RM551321
 
----
-
-Agora você tem o texto formatado em Markdown. Certifique-se de preencher as informações em colchetes (por exemplo, [Seu Nome]) com os detalhes apropriados do seu projeto.
+- Gabriel Genaro - RM551986
