@@ -12,10 +12,19 @@ Este projeto consiste em um sistema de monitoramento de ambiente para uma viníc
 ## Hardware Utilizado
 
 O sistema é controlado por um ESP32, um microcontrolador amplamente utilizado em projetos IoT devido à sua versatilidade e conectividade. Para monitorar a luminosidade, utilizamos um sensor de luminosidade conectado ao ESP32.
+Ao longo da implementação do projeto faremos a conexão na nuvem com os sensores de temperatura e umidade igualmente
 
 ## Sensor de Luminosidade
 
 O sensor de luminosidade captura dados de luminosidade no ambiente e os envia para o ESP32. O ESP32 processa esses dados e os envia para um sistema de backend para armazenamento e análise posteriores.
+
+## Sensor de Temperatura 
+
+O sensor de temperatura captura os dados de temperatura ao longo do dia e posteriormente utilizaremos para criar gráficos e recomendações ao dono da vinheria
+
+## Sensor de Umidade
+
+O sensor de temperatura captura os dados de temperatura ao longo do dia e posteriormente utilizaremos para criar gráficos e recomendações ao dono da vinheria
 
 ## Backend
 
