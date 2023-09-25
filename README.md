@@ -42,7 +42,7 @@ Com os dados armazenados no STH Comet, podemos criar gráficos para visualizar a
 
 ### Exemplo de Gráfico de Luminosidade 
 
-
+![image](https://github.com/G3n4r00/Repositorio-Vinheria/assets/126473193/280c9ed1-560d-46c6-bac1-13895f68ae70)
 
 ## Instruções de Uso
 
