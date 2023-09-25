@@ -40,6 +40,10 @@ O sistema de backend é construído com Docker, Fiware e STH Comet:
 
 Com os dados armazenados no STH Comet, podemos criar gráficos para visualizar as últimas leituras de luminosidade. Isso nos permite acompanhar as variações de luminosidade ao longo do tempo e tomar decisões informadas relacionadas ao ambiente da vinícola.
 
+### Exemplo de Gráfico de Luminosidade 
+
+
+
 ## Instruções de Uso
 
 1. **Montagem do Hardware**: Monte o hardware, conectando o sensor de luminosidade ao ESP32 conforme as instruções do fabricante.
